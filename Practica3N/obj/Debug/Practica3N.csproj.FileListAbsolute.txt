@@ -1,0 +1,10 @@
+C:\Users\Home\OneDrive\Escritorio\Practica3N\Practica3N\obj\Debug\Practica3N.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Escritorio\Practica3N\Practica3N\obj\Debug\Practica3N.LoginForm.resources
+C:\Users\Home\OneDrive\Escritorio\Practica3N\Practica3N\obj\Debug\Practica3N.Properties.Resources.resources
+C:\Users\Home\OneDrive\Escritorio\Practica3N\Practica3N\obj\Debug\Practica3N.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Escritorio\Practica3N\Practica3N\obj\Debug\Practica3N.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Escritorio\Practica3N\Practica3N\bin\Debug\Practica3N.exe.config
+C:\Users\Home\OneDrive\Escritorio\Practica3N\Practica3N\bin\Debug\Practica3N.exe
+C:\Users\Home\OneDrive\Escritorio\Practica3N\Practica3N\bin\Debug\Practica3N.pdb
+C:\Users\Home\OneDrive\Escritorio\Practica3N\Practica3N\obj\Debug\Practica3N.exe
+C:\Users\Home\OneDrive\Escritorio\Practica3N\Practica3N\obj\Debug\Practica3N.pdb
